@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranjalijoshi . I am a curious data lover who is always ready to explore possibilities with data.
-- 👀 I’m interested in learning and implementing codes and models to capture and optimize marketing data.
-- 🌱 I’m currently learning SAS, R and Python.
-- 💞️ I’m looking to collaborate on marketing data research and implementation.
+- 👀 I’m interested in learning and implementing machine learning models to capture and apply them for marketing insights and outcomes.
+- 🌱 I’m learning Python, ML and Deep Learning.
+- 💞️ I’m looking to collaborate, get feedback and guidance on marketing data science approaches.
 - 📫 You can reach me pranjali.joshi@marylandsmith.umd.edu
 
 <!---
